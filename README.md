@@ -1,5 +1,5 @@
 # MS8607 Generic C Driver
-Arduino library for the [MS8607 sensor](http://www.te.com/usa-en/product-CAT-BLPS0018.html)
+Generic C driver for the [MS8607 sensor](http://www.te.com/usa-en/product-CAT-BLPS0018.html)
 
 ![ms8607](http://www.te.com/content/dam/te-com/catalog/part/CAT/BLP/S00/CAT-BLPS0018-t1.jpg/jcr:content/renditions/product-details.png)
 
