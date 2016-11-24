@@ -28,3 +28,6 @@ MS8607 sensor is a self-contained pressure, humidity and temperature sensor that
 * Temperature, Humidty and pressure measurement
 * Calculate compensated humidity
 * Calculate dew point
+
+
+**NB:** This driver is intended to provide an implementation example of the sensor communication protocol, in order to be usable you have to implement a proper I2C layer for your target platform.
