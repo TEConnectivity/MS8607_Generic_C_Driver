@@ -3,8 +3,6 @@ Generic C driver for the [MS8607 sensor](http://www.te.com/usa-en/product-CAT-BL
 
 ![ms8607](http://www.te.com/content/dam/te-com/catalog/part/CAT/BLP/S00/CAT-BLPS0018-t1.jpg/jcr:content/renditions/product-details.png)
 
-## Sensor Description
-
 MS8607 sensor is a self-contained pressure, humidity and temperature sensor that is fully calibrated during manufacture. The sensor can operate from 1.5V to 3.6V. The MS8607 is ideal for weather station applications embedded into compact devices and any applications in which pressure, humidity and temperature monitoring is required.
 
 ### Specifications
@@ -17,7 +15,7 @@ MS8607 sensor is a self-contained pressure, humidity and temperature sensor that
 *	Very low power consumption
 
 
-## Driver features
+### Driver features
 * Connection test
 * Reset
 * Select I2C master mode
